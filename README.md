@@ -1,7 +1,6 @@
 # 191-Tyler-Mos
-This is for the 191A Github Discussion
-1)
-Git Log:
+This is for the 191A Github Discussion /n
+1)Git Log:
 Shows a log of commands I have used in this repository. 
 Tylers-MacBook-Air:191-Tyler-Mos tylermos$ git log
 commit 0514bca173a1989f84ba1d45d90fd94e54491466 (HEAD -> master, origin/master, origin/HEAD)
