@@ -1,5 +1,5 @@
 # 191-Tyler-Mos
-This is for the 191A Github Discussion /n
+This is for the 191A Github Discussion 
 1)Git Log:
 Shows a log of commands I have used in this repository. 
 Tylers-MacBook-Air:191-Tyler-Mos tylermos$ git log
