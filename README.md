@@ -58,7 +58,7 @@ Changes to be committed:
 	new file:   .DS_Store
 	new file:   testfile.txt
 
-6)  It says that my brnahc is ahead by one commit.
+6)  It says that my branch is ahead by one commit.
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
